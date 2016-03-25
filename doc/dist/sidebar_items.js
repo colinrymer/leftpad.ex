@@ -1,0 +1,1 @@
+sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","headers":[]}],"modules":[{"id":"Leftpad","title":"Leftpad","functions":[{"id":"pad/3","anchor":"pad/3"}]}],"protocols":[]}
