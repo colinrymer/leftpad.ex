@@ -1,6 +1,6 @@
 # Leftpad
 
-**TODO: Add description**
+left pad for elixir, because why not? ¯\_(ツ)_/¯ 
 
 ## Installation
 
