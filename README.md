@@ -1,6 +1,6 @@
 # Leftpad
 
-left pad for elixir, because why not? ¯\_(ツ)_/¯ 
+left pad for elixir, because why not? ¯\\\_(ツ)_/¯ 
 
 ## Installation
 
